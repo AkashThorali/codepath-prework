@@ -1,10 +1,10 @@
 # codepath-prework
 Codepath prework project
-# Prework - *Name of App Here*
+# Prework - *ColorChanger*
 
-Submitted by: **Your Name Here**
+Submitted by: **Akash Thorali**
 
-**Name of your app** is an app that... [TODO] 
+**ColorChanger** is an app that enables users to tap a button to change the background of the screen to a random color.
 
 Time spent: **2** hours spent in total
 
@@ -17,19 +17,45 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+<div>
+    <a href="https://www.loom.com/share/8773201f004e4ee5ae343b178fe711df">
+    </a>
+    <a href="https://www.loom.com/share/8773201f004e4ee5ae343b178fe711df">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/8773201f004e4ee5ae343b178fe711df-3a94c31d68f1b00c-full-play.gif">
+    </a>
+  </div>
 
 ## App Brainstorming (Step 4)
 
+### Favorite Apps 
+
+**1. Spotify**  
+- Visually-appealing and intuitive UI  
+- Personalized playlists and recommendations
+
+**2. Instagram**  
+- Visual-first interface  
+- Easy photo sharing and reactions
+
+**3. Notion**  
+- Flexible content blocks and databases  
+- Clean, minimal design
+
+### App Idea
+
+**App Name:** *HowWasYourDay* 
+
+A daily mood tracker that lets users select a color that reflects their current emotional state, pick an emoji to describe their mood, or write down any notes. Over time, the application visualizes trends in moods and color and reports back to the user. Possible features include mood logs, color-based calendar, and daily notifications.  
+
+
+
 ## Notes
 
-Describe any challenges encountered while building the app.
+One challenge I faced was ensuring that the changeColor function was properly nested in the changeBackgroundColor function. 
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2025 Akash Thorali
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
