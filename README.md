@@ -1,5 +1,3 @@
-# codepath-prework
-Codepath prework project
 # Prework - *ColorChanger*
 
 Submitted by: **Akash Thorali**
@@ -51,7 +49,7 @@ A daily mood tracker that lets users select a color that reflects their current 
 
 ## Notes
 
-One challenge I faced was ensuring that the changeColor function was properly nested in the changeBackgroundColor function. 
+One challenge I faced when implementing this application was ensuring that the changeColor function was properly nested in the changeBackgroundColor function. 
 
 ## License
 
